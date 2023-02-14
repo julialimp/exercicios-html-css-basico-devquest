@@ -2,7 +2,7 @@
 Arquivo README de teste realizado no curso DevQuest do DevEmDobro (link clicando no gif).
 
 ## Execícios realizados no final do módulo HTML e CSS básicos do curso DevQuest 🚀
-<a href="https://www.google.com" target="_blank"><img src="./Exercicios HTML CSS basico.gif" alt="teste para arquivo README"></a>
+<a href="https://www.google.com" target="_blank"><img src="./Exercicios HTML CSS basico.gif" alt="teste para arquivo README" target="_blank"></a>
 
 
 ## Tecnologia utilizadas
